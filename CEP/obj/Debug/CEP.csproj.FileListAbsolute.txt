@@ -1,0 +1,8 @@
+C:\Users\RuyVictor\source\repos\CEP\CEP\bin\Debug\CEP.exe.config
+C:\Users\RuyVictor\source\repos\CEP\CEP\bin\Debug\CEP.exe
+C:\Users\RuyVictor\source\repos\CEP\CEP\bin\Debug\CEP.pdb
+C:\Users\RuyVictor\source\repos\CEP\CEP\obj\Debug\CEP.csprojAssemblyReference.cache
+C:\Users\RuyVictor\source\repos\CEP\CEP\obj\Debug\CEP.csproj.CoreCompileInputs.cache
+C:\Users\RuyVictor\source\repos\CEP\CEP\obj\Debug\CEP.exe
+C:\Users\RuyVictor\source\repos\CEP\CEP\obj\Debug\CEP.pdb
+C:\Users\RuyVictor\source\repos\CEP\CEP\bin\Debug\cep.xml
